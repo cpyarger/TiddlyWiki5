@@ -115,6 +115,8 @@ Saving/GitService/GitLab/Caption: ~GitLab Saver
 Saving/GitService/GitLab/Password: Personal access token for API (see [[GitLab help page|https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html]] for details)
 Saving/GitService/Gitea/Caption: Gitea Saver
 Saving/GitService/Gitea/Password: Personal access token for API (via Gitea’s web interface: `Settings | Applications | Generate New Token`)
+Saving/GitService/Gitbox/Caption: GitBox Saver
+Saving/GitService/Gitbox/Password: Personal access token for API (via GitBox’s web interface: `Settings | Applications | Generate New Token`)
 Saving/TiddlySpot/Advanced/Heading: Advanced Settings
 Saving/TiddlySpot/BackupDir: Backup Directory
 Saving/TiddlySpot/ControlPanel: ~TiddlySpot Control Panel

@@ -1,0 +1,11 @@
+title: $:/core/ui/ControlPanel/Saving/gitbox
+tags: $:/tags/ControlPanel/Saving
+caption: {{$:/language/ControlPanel/Saving/GitService/gitbox/Caption}}
+
+\define lingo-base() $:/language/ControlPanel/Saving/GitService/
+\define service-name() ~gitbox
+
+<<lingo Description>>
+
+|<<lingo UserName>> |<$edit-text tiddler="$:/gitbox/Username" default="" tag="input"/> |
+|<<lingo gitbox/Password>> |<$password name="gitbox"/> |
